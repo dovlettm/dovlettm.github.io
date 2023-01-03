@@ -8,7 +8,10 @@ title: DREAM Project Site
 
 ## About Me
 
-My info goes here.
+I am currently pursuing a Masters Degree in Computer Science at Clemson University. I graduated in 2014 from Minnesota State University, Mankato with MPA
+degree. Since graduation I have been working full time in various technical and leadership positions at Cambria. Clemson Universities MSCS Ready program
+has offered me the opportunity to pursue my interest in Computer Science with a program designed to provide the necessary coursework for a Computer Science
+Master’s Degree for non-CS undergrads.
 
 ## About My Advisor
 
